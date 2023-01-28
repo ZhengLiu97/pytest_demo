@@ -1,2 +1,2 @@
-# pytest_demo
-Pytest demo
+# Pytest demo
+Some demos for pytest
