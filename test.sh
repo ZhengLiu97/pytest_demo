@@ -1,1 +1,1 @@
-pytest --html=report.html --self-contained-html
+pytest --no-summary --html=report.html --self-contained-html
